@@ -1,0 +1,25 @@
+ PRATICA 1
+
+1.1 - Buscar pokemons que tenham speed maior que 60
+1.2 - Buscar pokemons que tenham attack E special_attack maior ou igual a 60
+1.3 - Buscar pokemons que tenham  na coluna  name  o termo "saur"  no final do texto
+
+PRATICA 2
+
+2.1-buscar na tabela poemon a media sikmples da coluna hp
+2.2- busca o numero de linhas da tabela pokemons
+2.3-rafatorar as queries apelidando as colunas com funcoes para nomes mais semanticos em cameCase
+
+PRATICA 3
+
+3.1- busque todos os pokemons e ordene-os baseado na coluna defense em ordem decrescente
+3.2- busque novamente o numeo de pokemons cadastrados, mas agora agrupe o resultado na coluna type
+3.3- busque todos os pokemons , limite o resultado a 3 linhas começadno da lnha 
+
+FIXAÇÃO
+
+busque por todos os pokemons aplciando:
+
+F1- filtrar resultado, mopstrando somente itens que possuem a coluna type valendo fire ou grass
+F2- ordem crescente baseado na coluna ttack
+F3-resultado limitado a 3 linhas iniciando a partir da terceira.
